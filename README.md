@@ -3,7 +3,9 @@
 Database Connect And Data Get
 
 npm install 
+
 npm start 
+
 npm install mysql 
 
 
